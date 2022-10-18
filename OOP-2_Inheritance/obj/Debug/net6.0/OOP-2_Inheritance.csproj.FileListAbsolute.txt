@@ -1,0 +1,15 @@
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-2_Inheritance\OOP-2_Inheritance\bin\Debug\net6.0\OOP-2_Inheritance.exe
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-2_Inheritance\OOP-2_Inheritance\bin\Debug\net6.0\OOP-2_Inheritance.deps.json
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-2_Inheritance\OOP-2_Inheritance\bin\Debug\net6.0\OOP-2_Inheritance.runtimeconfig.json
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-2_Inheritance\OOP-2_Inheritance\bin\Debug\net6.0\OOP-2_Inheritance.dll
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-2_Inheritance\OOP-2_Inheritance\bin\Debug\net6.0\OOP-2_Inheritance.pdb
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-2_Inheritance\OOP-2_Inheritance\obj\Debug\net6.0\OOP-2_Inheritance.csproj.AssemblyReference.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-2_Inheritance\OOP-2_Inheritance\obj\Debug\net6.0\OOP-2_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-2_Inheritance\OOP-2_Inheritance\obj\Debug\net6.0\OOP-2_Inheritance.AssemblyInfoInputs.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-2_Inheritance\OOP-2_Inheritance\obj\Debug\net6.0\OOP-2_Inheritance.AssemblyInfo.cs
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-2_Inheritance\OOP-2_Inheritance\obj\Debug\net6.0\OOP-2_Inheritance.csproj.CoreCompileInputs.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-2_Inheritance\OOP-2_Inheritance\obj\Debug\net6.0\OOP-2_Inheritance.dll
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-2_Inheritance\OOP-2_Inheritance\obj\Debug\net6.0\refint\OOP-2_Inheritance.dll
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-2_Inheritance\OOP-2_Inheritance\obj\Debug\net6.0\OOP-2_Inheritance.pdb
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-2_Inheritance\OOP-2_Inheritance\obj\Debug\net6.0\OOP-2_Inheritance.genruntimeconfig.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-2_Inheritance\OOP-2_Inheritance\obj\Debug\net6.0\ref\OOP-2_Inheritance.dll
